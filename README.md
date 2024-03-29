@@ -1,6 +1,11 @@
+
 # FoodClub Restaurant Website
 
 Welcome to FoodClub! This is a fully responsive restaurant website built using JavaScript, HTML, CSS, and Bootstrap. FoodClub is designed to showcase the menu, ambiance, and services of our restaurant to attract and engage customers.
+
+## Server live at:
+https://iamkrish001.github.io/FoodClub-Krish-Bhurtel/
+
 
 ## Features
 
@@ -20,7 +25,6 @@ Welcome to FoodClub! This is a fully responsive restaurant website built using J
 - **Bootstrap**: Front-end framework for building responsive and mobile-first websites.
 
 
-## Server live at:
 
 
 
