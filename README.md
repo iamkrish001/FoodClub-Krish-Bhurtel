@@ -37,8 +37,7 @@ Contributions are welcome! If you'd like to contribute to the project, feel free
 FoodClub Restaurant Website is developed by Krish Bhurtel. 
 
 ## License
-
-This project is licensed under the [MIT License](LICENSE).
+Designed by Krish Bhurtel
 
 ---
 
